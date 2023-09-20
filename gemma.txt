@@ -1,1 +1,1 @@
-Cowsays "moo" 
+Cowsays "boo" 
